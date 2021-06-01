@@ -1,0 +1,25 @@
+{
+  "name": "puppy-csslib",
+  "version": "1.0.0",
+  "description": "A CSS Selector library to parse html input and give json output with css selectors. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/johnjayasingh/puppy-csslib.git"
+  },
+  "keywords": [
+    "puppy",
+    "csslib",
+    "pupeteer",
+    "selectorlib"
+  ],
+  "author": "John Jayasingh S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnjayasingh/puppy-csslib/issues"
+  },
+  "homepage": "https://github.com/johnjayasingh/puppy-csslib#readme"
+}
