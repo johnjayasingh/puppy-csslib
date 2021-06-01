@@ -1,0 +1,25 @@
+selector: "div.oETBfkHU"
+read_more_selector: "div.XUVJZtom"
+header:
+  - id: "Title"
+    title: "Title"
+    selector: "a.ocfR3SKN"
+  - id: "ReviewContent"
+    title: "ReviewContent"
+    selector: "q.IRsGHoPm"
+  - id: "ReviewTime"
+    title: "ReviewTime"
+    selector: "span._34Xs-BQm"
+    replace:
+      - "Date of travel: "
+  - id: "Place"
+    title: "Place"
+    selector: "div.hpZJCN7D"
+  - id: "Rating"
+    title: "Rating"
+    selector: "span.ui_bubble_rating"
+    type: Attribute
+    attribute: "class"
+    replace:
+      - "ui_bubble_rating bubble_"
+      - "0"

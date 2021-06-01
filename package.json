@@ -17,9 +17,13 @@
     "selectorlib"
   ],
   "author": "John Jayasingh S",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/johnjayasingh/puppy-csslib/issues"
   },
-  "homepage": "https://github.com/johnjayasingh/puppy-csslib#readme"
+  "homepage": "https://github.com/johnjayasingh/puppy-csslib#readme",
+  "dependencies": {
+    "puppeteer": "^10.0.0",
+    "yaml": "^1.10.2"
+  }
 }
