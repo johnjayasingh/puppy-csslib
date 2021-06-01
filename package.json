@@ -1,6 +1,6 @@
 {
   "name": "puppy-csslib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CSS Selector library to parse html input and give json output with css selectors. ",
   "main": "index.js",
   "scripts": {
